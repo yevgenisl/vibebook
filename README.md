@@ -4,7 +4,7 @@ This is a basic starter template for [Wasp](https://wasp-lang.dev/) apps but wit
 
 ## Getting Started
 
-1. Make sure you have Wasp installed: `curl -sSL https://get.wasp-lang.dev/installer.sh | sh -s`
+1. Make sure you have Wasp installed: `curl -sSL https://get.wasp.sh/installer.sh | sh -s -- -v 0.15.0`
 2. Create a new repo from this template: [Use the Wasp Cursor Template](https://github.com/wasp-lang/cursor-template/generate)
 3. Clone your new repo: `git clone https://github.com/<your-username>/<your-repo-name>.git`
 4. Position yourself in the project directory: `cd <your-repo-name>`
